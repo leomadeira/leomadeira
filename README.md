@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/Leonardo-Madeira">
-  <img height = "200em" src = "https://github-readme-stats.vercel.app/api?username=Leonardo-Madeira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
-  <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Madeira&layout=compact&langs_count=7&theme=great-gatsby" />
+  <img height = "170em" src = "https://github-readme-stats.vercel.app/api?username=Leonardo-Madeira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
+  <img height = "170em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Madeira&layout=compact&langs_count=7&theme=great-gatsby" />
 </div>
 
   ![](https://activity-graph.herokuapp.com/graph?username=Leonardo-Madeira&theme=react-dark&area=true)
