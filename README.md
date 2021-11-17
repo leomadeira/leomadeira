@@ -1,14 +1,19 @@
 ## Hi, I'm Leonardo Madeira 🌚 <img src="https://komarev.com/ghpvc/?username=Leonardo-Madeira&color=00FF00&label=Visualizações+do+perfil&style=flat-square" align="right"/>
 
+
  <div>
   <a href="https://github.com/Leonardo-Madeira">
   <img height = "190em" src = "https://github-readme-stats.vercel.app/api?username=Leonardo-Madeira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
   <img height = "190em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Madeira&layout=compact&langs_count=7&theme=chartreuse-dark" />
+
 </div>
 
+<hr>
+ 
   [![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=Leonardo-Madeira&bg_color=000000&color=00FF00&line=00FF00&point=ffffff&area=false&hide_border=true)](https://github.com/Orlandoj77/github-readme-activity-graph)
 
-
+<hr>
+ 
 ### Skills:  
  <div style = "display: inline_block">
     <img align="center" alt="Leo-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
