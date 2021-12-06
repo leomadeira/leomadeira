@@ -1,4 +1,4 @@
-## Hi, I'm Leonardo Madeira 🌚 <img src="https://komarev.com/ghpvc/?username=Leonardo-Madeira&color=00FF00&label=Visualizações+do+perfil&style=flat-square" align="right"/>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&color=%2300E600&multiline=true&width=300&height=30&lines=Hi%2C+I'm+Leonardo+Madeira)](https://git.io/typing-svg)<img src="https://komarev.com/ghpvc/?username=Leonardo-Madeira&color=00FF00&label=Visualizações+do+perfil&style=flat-square" align="right"/>
 
 
  <div>
