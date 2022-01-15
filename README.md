@@ -10,7 +10,7 @@
 
 <hr>
  
-  [![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=Leonardo-Madeira&bg_color=000000&color=00FF00&line=00FF00&point=ffffff&area=false&hide_border=true)](https://github.com/Orlandoj77/github-readme-activity-graph)
+  [![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=leomadeira&bg_color=000000&color=00FF00&line=00FF00&point=ffffff&area=false&hide_border=true)](https://github.com/Orlandoj77/github-readme-activity-graph)
 
 <hr>
  
