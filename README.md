@@ -1,10 +1,10 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&color=%23F7F8FF&multiline=true&width=300&height=30&lines=Hi%2C+I'm+Leonardo+Madeira)](https://git.io/typing-svg)<img src="https://komarev.com/ghpvc/?username=Leonardo-Madeira&color=00FF00&label=Visualizações+do+perfil&style=flat-square" align="right"/>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&color=%23F7F8FF&multiline=true&width=300&height=30&lines=Hi%2C+I'm+leomadeira)](https://git.io/typing-svg)<img src="https://komarev.com/ghpvc/?username=Leonardo-Madeira&color=00FF00&label=Visualizações+do+perfil&style=flat-square" align="right"/>
 
 
  <div>
-  <a href="https://github.com/Leonardo-Madeira">
-  <img height = "190em" src = "https://github-readme-stats.vercel.app/api?username=Leonardo-Madeira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
-  <img height = "190em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Madeira&layout=compact&langs_count=7&theme=chartreuse-dark" />
+  <a href="https://github.com/leomadeira">
+  <img height = "190em" src = "https://github-readme-stats.vercel.app/api?username=leomadeira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
+  <img height = "190em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leomadeira&layout=compact&langs_count=7&theme=chartreuse-dark" />
 
 </div>
 
