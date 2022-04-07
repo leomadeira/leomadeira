@@ -30,6 +30,6 @@
     <a href="https://www.instagram.com/leomadeiraa/"><img align="left" alt="Leonardo Instagram" target="_blank" width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg">
     <a href="https://linkedin.com/in/leonardo-madeira-303844205/"><img align="left" alt="Leonardo LinkedIn" target="_blank"  width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">
     <a href="mailto:leo.madeira96@gmail.com"><img align="left" alt="Leonardo Person Email" target="_blank"  width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg">
-    <a href="https://wa.me/5548984274450"><img align="left" alt="Leonardo Whats-App"  target="_blank" width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/whatsapp.svg">
+
  </div>
  
