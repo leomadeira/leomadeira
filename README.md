@@ -7,12 +7,6 @@
   <img height = "190em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leomadeira&layout=compact&langs_count=7&theme=chartreuse-dark" />
 
 </div>
-
-<hr>
- 
-  [![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=leomadeira&bg_color=000000&color=00FF00&line=00FF00&point=ffffff&area=false&hide_border=true)](https://github.com/Orlandoj77/github-readme-activity-graph)
-
-<hr>
  
 ### Skills:  
  <div style = "display: inline_block">
